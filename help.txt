@@ -1,0 +1,4 @@
+1)Create virtual environment.
+2)Install dependencies as in requirements.txt
+3)Postman to check api.
+4)Take help from photos folder to see how to check Api
